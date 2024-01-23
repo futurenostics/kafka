@@ -1,3 +1,3 @@
 module.exports = {
-  kafkaTopic: "teste",
+  kafkaTopic: "your-topic",
 };
